@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DownloadTimeCalculator/1.0.0": {
+        "runtime": {
+          "DownloadTimeCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DownloadTimeCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

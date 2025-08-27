@@ -1,0 +1,17 @@
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\bin\Release\net8.0-windows\DownloadTimeCalculator.exe
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\bin\Release\net8.0-windows\DownloadTimeCalculator.deps.json
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\bin\Release\net8.0-windows\DownloadTimeCalculator.runtimeconfig.json
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\bin\Release\net8.0-windows\DownloadTimeCalculator.dll
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\bin\Release\net8.0-windows\DownloadTimeCalculator.pdb
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\obj\Release\net8.0-windows\DownloadTimeCalculator.Form1.resources
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\obj\Release\net8.0-windows\DownloadTimeCalculator.Properties.Resources.resources
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\obj\Release\net8.0-windows\DownloadTimeCalculator.csproj.GenerateResource.cache
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\obj\Release\net8.0-windows\DownloadTimeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\obj\Release\net8.0-windows\DownloadTimeCalculator.AssemblyInfoInputs.cache
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\obj\Release\net8.0-windows\DownloadTimeCalculator.AssemblyInfo.cs
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\obj\Release\net8.0-windows\DownloadTimeCalculator.csproj.CoreCompileInputs.cache
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\obj\Release\net8.0-windows\DownloadTimeCalculator.dll
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\obj\Release\net8.0-windows\refint\DownloadTimeCalculator.dll
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\obj\Release\net8.0-windows\DownloadTimeCalculator.pdb
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\obj\Release\net8.0-windows\DownloadTimeCalculator.genruntimeconfig.cache
+C:\my codes\VsCommunity\DownloadTimeCalculator\DownloadTimeCalculator\obj\Release\net8.0-windows\ref\DownloadTimeCalculator.dll
